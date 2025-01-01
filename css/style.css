@@ -141,6 +141,7 @@ body{
     position: relative;
     width: 240px;
     height: 30px;
+    padding:0 25px 0  5px;
     background-color:rgb(255, 247, 238);
     border-radius: 20px;
     position: absolute;
@@ -830,7 +831,7 @@ body{
 .new{
     position: relative;
     width: 30%;
-    height: 520px;
+    height: 500px;
     background-color:rgba(173, 112, 32, 0.589);
     color: beige;
     float: left;
